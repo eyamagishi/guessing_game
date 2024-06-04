@@ -16,6 +16,8 @@ guessing_game
 
 「The Rust Programming Language 日本語版」の中にある数当てゲームのプログラミングを実装したものです。
 
+[The Rust Programming Language 日本語版 - 数当てゲームのプログラミング](https://doc.rust-jp.rs/book-ja/ch02-00-guessing-game-tutorial.html)
+
 ## インストール
 
 プロジェクトのインストール方法を説明します。
